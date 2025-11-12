@@ -8,7 +8,7 @@ import { useSmartNavigation } from '@/hooks/useSmartNavigation';
 
 const DEFAULT_HERO = {
   badge: 'Test Version: Live Demo',
-  title: 'Simple test website with',
+  title: 'Best test website with',
   titleHighlight: 'minimal hero section',
   description:
     'A clean, straightforward test implementation showcasing modern web development practices with minimal design principles.',
